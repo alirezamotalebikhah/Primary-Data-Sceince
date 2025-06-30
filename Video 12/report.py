@@ -1,4 +1,4 @@
-print("hello welcom to name list")
+print("hello welcome to name list")
 print(" what's your name?")
 a = input()
 print("Hw old are u?")
@@ -6,3 +6,5 @@ b = input()
 print("where do u came from?")
 c = input()
 print(f"I'm {a} , i am {b} years old and i came from {c}")
+text = '"you are Karaneh user"'
+print(text)
