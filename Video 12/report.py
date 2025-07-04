@@ -5,6 +5,6 @@ print("Hw old are u?")
 b = input()
 print("where do u came from?")
 c = input()
-print(f"I'm {a} , i am {b} years old and i came from {c}")
+print(f"I'm {a} , i am {b} years old \n i came from {c}")
 text = '"you are Karaneh user"'
 print(text)
